@@ -5,4 +5,4 @@ print ('.')
 print('.')
 print ('ths is just for learning purposes')  #only for use case
 print("Line A \n Line B")
-open("log.txt", "bb")
+open("log.txt", "cc")
