@@ -5,4 +5,8 @@ print ('.')
 print('.')
 print ('ths is just for learning purposes')  #only for use case
 print("Line A \n Line B")
+<<<<<<< HEAD
 open("log.txt", "abc")
+=======
+open("log.txt", "abcdeqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq")
+>>>>>>> b2b850e0d3ab2eaab83fc54867e97a8906d336d8
