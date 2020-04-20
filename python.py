@@ -8,5 +8,5 @@ print("Line A \n Line B")
 <<<<<<< HEAD
 open("log.txt", "abc")
 =======
-open("log.txt", "abcdeqqqqqqqqqqqqqqqqqqqqqqpppppppppppp")
+open("log.txt", "abcdesssssssssssssssssqqqqqqqqqqqqqqqqqqqqqqpppppppppppp")
 >>>>>>> b2b850e0d3ab2eaab83fc54867e97a8906d336d8
